@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "link": "/",
+      "title": "Home"
+    },
+    {
+      "link": "/traversi",
+      "title": "Traversi"
+    },
+    {
+      "link": "/my-mdx-page",
+      "title": "Mdx"
+    }
+  ]
+}
